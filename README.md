@@ -1,3 +1,3 @@
 # Studia-Projekt-Grupowy
-Uczestnicy: Aleksander Cygan (index numer 81811) i Kamil Waloch (.
+Uczestnicy: Aleksander Cygan (81811) i Kamil Waloch (81642).
 Temat: Aplikacja blogowa
