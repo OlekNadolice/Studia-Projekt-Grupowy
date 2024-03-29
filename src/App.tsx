@@ -1,13 +1,14 @@
-import React from 'react';
-
-
-
+import RoutesDefinition from "RoutesDefinition/RoutesDefinition";
+import AuthContextProvider from "Context/Context";
+import GlobalCSS from "Styles/GlobalStyle";
+ 
 function App() {
   return (
-    <div className="App">
-     
-    </div>
+<AuthContextProvider>
+<GlobalCSS />
+<RoutesDefinition></RoutesDefinition>
+</AuthContextProvider>
   );
 }
-
+ 
 export default App;
